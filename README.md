@@ -1,2 +1,2 @@
 # test
-Test project code
+REST API project which contains user and admin specific functionality
